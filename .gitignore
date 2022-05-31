@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/AgoraEngine/Plugins/iOS/AgoraRtcKit.framework/AgoraRtcKit
+Assets/UniversalMediaPlayer/Plugins/iOS/PlayerFFmpeg.framework/PlayerFFmpeg
+Assets/360 vr sualtı çetin.mp4
